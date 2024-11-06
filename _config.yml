@@ -20,7 +20,10 @@ author: Sarene Choudhury
 ###############################################
 
 navbar-links:
+  Home: ""
   About Me: "aboutme"
+  Resume: "resume"
+  
 #  Resources:
 #    - Beautiful Jekyll: "https://sarenechoudhury.com"
 #  Author's home: "https://sarenechoudhury.com"
