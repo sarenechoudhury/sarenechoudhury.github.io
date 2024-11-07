@@ -3,6 +3,8 @@ layout: page
 title: Vincerò!
 ---
 
+#### I have a passion for opera, and Nessun Dorma is my favorite aria. This poem was inspired by the story that the aria describes.
+
 For the sake of a perilous search, battling the waking hour of the sun each subject–
 
           Poor peasants!
