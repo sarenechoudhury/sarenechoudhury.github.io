@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Screen Memory and Obsession in Achieving Absolution
-subtitle: *Vertigo* and *Memento*
+subtitle: Vertigo and Memento
 ---
 
           Alfred Hitchcock’s *Vertigo* follows an ex-cop–John “Scottie” Ferguson (James Stewart)–who suffers from severe acrophobia and vertigo due to psychological trauma. The film opens with Scottie and a fellow cop engaged in a rooftop chase after a criminal, where Scottie falls and ends up hanging off the side of a rooftop. When the cop attempts to help Scottie up from the ledge, the cop falls to his death. After the fact, Scottie develops his acrophobia and retires from the force, though soon after is approached by an old colleague, Gavin Elster (Tom Helmore), who tasks Scottie with following Gavin’s wife, Madeleine (Kim Novak). Scottie and Madeleine go on to fall in love, yet Madeleine ends up committing suicide, sending Scottie into a deep depression. He is only pulled out of it after meeting Judy Barton (Kim Novak)–a woman who looks startlingly similar to Madeleine–and forcing her to change until she is a perfect recreation of Scottie’s lost love. Throughout the film, Hitchcock utilizes his famous technique of a dolly zoom, in which the camera is pulled backwards on a dolly while zooming in, to evoke the feeling of Scottie’s vertigo. Besides its literal use, the dolly zoom represents Scottie’s attempt to move forward with Judy, while he’s actually recreating his past with Madeleine. Both women, however, are distractions from the underlying issue in Scottie’s mentality: his vertigo, caused by his guilt over his colleague’s death.
