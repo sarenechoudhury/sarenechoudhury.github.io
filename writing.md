@@ -3,4 +3,4 @@ layout: page
 title: Writing
 ---
 
-[Poetry](/poetry)
+[Poetry](/sarenechoudhury.github.io/poetry)
