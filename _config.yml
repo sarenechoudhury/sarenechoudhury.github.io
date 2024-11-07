@@ -23,6 +23,10 @@ navbar-links:
   Home: "index"
   About Me: "aboutme"
   Resume: "resume"
+  Resources:
+    - Coding: "ML"
+    - Writing: "writing"
+    - Film: "film"
   
 #  Resources:
 #    - Beautiful Jekyll: "https://sarenechoudhury.com"
