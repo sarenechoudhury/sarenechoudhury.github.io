@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Disquieting Reality of Chinatown, One Comparable to Our Own
+subtitle: Chinatown
 ---
 
           Roman Polanski’s *Chinatown* is a film noir that has gone down in history for its Oscar-winning screenplay, starring Jack Nicholson (Jack Gittes), Faye Dunaway (Evelyn Mulwray) and John Huston (Noah Cross). Gittes is a private detective, and before the main plotline even starts, the film opens to Gittes showing pictures of a woman and a man having intimate relations to his client, the distraught husband of the woman in the pictures. Investigating the infidelity of spouses does fall into the job description of a PI, but the opening is more significant for how Gittes deals with the client, Curly. Rather than taking on the brusque, offhand manner of other portrayals of detectives in old Hollywood, Gittes lands firmly in the morally and emotionally gray. He’s tortured by his past and wears a mask to project strength, yet when that inner turmoil escapes, it manifests in Gittes having a strange sort of kindness. Herein lies the relevance of the opening scene.
