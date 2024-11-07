@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Christina Trutescu Will Never Give Up
-subtitle: Junior Research Paper
 ---
 
           In the heart of a labyrinthine apartment complex in Edgewater, New Jersey lives my aunt, Physician’s Assistant Christina Trutescu, with her husband and two sons. Walking through their apartment means carefully avoiding stray pieces of squashed kumatos, a pile of building blocks, and clean laundry strewn across the furniture, all while *Cocomelon* blares in the background. After mornings that start at the crack of dawn with the cries of Adam, still under a year old, Trutescu leaves for work in the seafoam green scrubs specific to the trauma surgery unit. Her alternative for the lightweight scrubs is a nondescript uniform of the same caliber, consisting of a colorless tee and sweats, mirrored by the rest of her family as they indulge in overstimulation. “Just make yourself happy,” she recommends. However, the controlled chaos that overwhelms this household is comforting in how it so heartily declares ‘a family lives here!’
