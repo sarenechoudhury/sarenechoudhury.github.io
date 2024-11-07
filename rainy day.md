@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: A Rainy Day in New York Review
+---
 
           At a first glance, A Rainy Day in New York is a pleasant romcom with all of Woody Allen’s  signature attributes. Looking deeper, viewers will find overused themes, characters, and general tropes in this film, which seem to hark back to Allen’s last great film, Midnight in Paris. A Rainy Day in New York feels as if some lesser director tried to recreate Midnight in Paris in their own image, and failed.  The film is tired to a degree where even the usually beautiful cinematography of Vittorio Storaro feels dull.  It is the most recent of Allen’s love letters to various cities, this one to Manhattan, but his inability to bring a fresh side to the newest installment of his famed city films is its downfall.  The final punch comes in the film’s delayed release in the US, as a result of renewed attention to Allen’s sexual abuse accusations in 2018, right after the completion of the film.
 
