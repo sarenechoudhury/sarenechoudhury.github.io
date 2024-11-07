@@ -20,7 +20,7 @@ author: Sarene Choudhury
 ###############################################
 
 navbar-links:
-  Home: ""
+  Home: "index"
   About Me: "aboutme"
   Resume: "resume"
   
