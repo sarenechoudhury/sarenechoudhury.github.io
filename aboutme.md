@@ -5,6 +5,15 @@ title: About me
 
 My name is Sarene Choudhury, I'm a student at the University of Chicago where I'm majoring in Computer Science and Cinema Studies. Some of my hobbies include reading fantasy books, creative writing, watching and making films, sailing, and coding.
 
+[Coding History and Coursework](#coding-history-and-coursework)
+
+[Filmmaking](#filmmaking)
+
+[Books](#books)
+
+[Film and TV](#film-and-tv)
+
+
 ### Coding History and Coursework
 
 I was first introduced to computer science at age 9 when I attended an IDTech camp and learned Scratch. I loved the experience and consequently returned for five more summers, until I was old enough to apply for pre-college courses, listed below:
@@ -83,5 +92,9 @@ The highschool I attended, Horace Mann, also offered a number of computer scienc
 - Languages/Software used: Python, Unity, JavaScript, C#
     
 - Coursework: Game development, Shell scripting environments, Hacking
-    
 
+### Filmmaking
+
+### Books
+
+### Film and TV
