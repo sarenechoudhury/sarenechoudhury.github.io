@@ -4,7 +4,8 @@ title: Basic LightGBM Model
 subtitle: Python
 ---
 
-#### This model uses a dataset of Google's stock from 2004-2024. 
+#### This model uses a dataset of Google's stock from 2004-2024.
+Jupyterlab version with outputs can be found 
 
 Import necessary packages.
 ```python
