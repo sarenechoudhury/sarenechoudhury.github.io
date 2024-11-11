@@ -222,27 +222,6 @@ The highschool I attended, Horace Mann, also offered a number of computer scienc
 
 20. Fight Club (David Fincher, 1999)
 
-#### Unordered Honourable Mentions
-
-- Pirates of the Caribbean 1-4 (Gore Verbinski, Rob Marshall)
-
-- Crazy Rich Asians (Jon M. Chu, 2018)
-
-- The Seventh Seal (Ingmar Bergman, 1958)
-
-- Strangers on a Train (Alfred Hitchcock, 1951)
-
-- Dirty Dancing (Emile Ardolino, 1987)
-
-- Cars 2 (John Lasseter, 2011)
-
-- The 400 Blows (François Truffaut, 1959)
-
-- Jaws (Steven Spielberg, 1975)
-
-- Parasite (Bong Joon-ho, 2019)
-
-
 #### Favourite TV Shows
 
 1. Game of Thrones
@@ -254,30 +233,6 @@ The highschool I attended, Horace Mann, also offered a number of computer scienc
 4. The Boys
 
 5. Demonslayer
-
-#### Unordered Honourable Mentions
-
-- Invincible
-
-- Veep
-
-- Monty Python's Flying Circus
-
-- It's Always Sunny in Philadelphia
-
-- Young Justice
-
-- New Girl
-
-- Glee
-
-- Black Clover
-
-- Arrested Development
-
-- My Hero Academia
-
-- White Lotus
 
 #### Favourite TV and Film Characters
 
